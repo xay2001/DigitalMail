@@ -13,6 +13,10 @@ PHP程序设计课程大作业——基于PHP、MySQL的数码商城
 
 DigitalMail是一个网络数码商城，轻便快速，易于部署。基于PHP+MySQL编写。目前实现了商品浏览，分类筛选，提交订单，后台管理等功能
 
+## 操作演示视频
+
+> https://www.bilibili.com/video/BV1Cq4y1W7kh/
+
 ## 项目地址
 
 > https://github.com/xay2001/DigitalMail
