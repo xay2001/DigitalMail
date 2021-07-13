@@ -5,7 +5,8 @@ PHP程序设计课程大作业——基于PHP、MySQL的数码商城
 
 ## 项目人员
 
-> xay2001,drh
+> xay2001 , drh
+
 > SCNU 软件工程19 
 
 ## DigitalMail
